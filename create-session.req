@@ -1,0 +1,3 @@
+BITS_POST /sean.here HTTP/1.1
+BITS-Packet-Type: Create-Session
+BITS-Supported-Protocols: {7df0354d-249b-430f-820d-3d2a9bef4931}
