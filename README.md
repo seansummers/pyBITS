@@ -18,3 +18,7 @@ Other Server Implementations
  * duplicity 0.7.03
  * [SafeBreach-Labs/SimpleBITSServer](https://github.com/SafeBreach-Labs/SimpleBITSServer)
 
+Other Interesting Codebases
+---------------------------
+ * [BITSInject](https://github.com/SafeBreach-Labs/BITSInject/blob/master/BITSInject.py)
+ 
